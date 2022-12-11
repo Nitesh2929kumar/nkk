@@ -1,5 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-	cout<<"hello nkk"<<endl;
+	int a=10;
+	int b=5;
+	cout<<a/b<<endl;
 }
